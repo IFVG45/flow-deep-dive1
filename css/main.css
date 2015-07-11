@@ -101,10 +101,13 @@ footer {
 
 footer {
   margin: 0;
-  overflow: hidden;
+  overflow:hidden;
   width: 100%;
   background-color: #f3ecd9;
 
+}
 
-
+.classification{
+  font-style: italic;
+  display:inline;
 }
