@@ -34,12 +34,14 @@ nav li{
 
 dt{
   text-align:left;
+  width:12%;
   display:block;
+  font-style:italic;
 
 }
 
 dd{
-  text-align:right;
+  text-align:center;
   display:block;
 }
 
@@ -116,9 +118,4 @@ footer {
   width: 100%;
   background-color: #f3ecd9;
 
-}
-
-.classification{
-  font-style: italic;
-  display:inline;
 }
