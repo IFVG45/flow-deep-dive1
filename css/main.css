@@ -32,6 +32,17 @@ nav li{
 
 }
 
+dt{
+  text-align:left;
+  display:block;
+
+}
+
+dd{
+  text-align:right;
+  display:block;
+}
+
 nav a{
   color:#fff;
   text-decoration:none;
